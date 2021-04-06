@@ -22,3 +22,7 @@ type Payment struct {
 	Category Category
 	Status   Status
 }
+
+
+
+
