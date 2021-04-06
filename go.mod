@@ -1,3 +1,3 @@
-module github.com/shFarrukh/bank/v2
+module github.com/shFarrukh/bank
 
 go 1.16
